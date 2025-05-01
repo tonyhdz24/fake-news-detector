@@ -9,7 +9,7 @@ This project classifies news articles as real or fake using two approaches:
 ## Setup Instructions
 1. Clone Repository
 ```
-git clone https://github.com/your-username/fake-news-detector.git
+git clone https://github.com/tonyhdz24/fake-news-detector
 cd fake-news-detector
 ```
 
