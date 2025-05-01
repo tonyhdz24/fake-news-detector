@@ -1,0 +1,19 @@
+# General
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Transformers and Datasets
+transformers
+datasets
+
+# For training and evaluation
+torch
+evaluate
+
+# Jupyter notebook (optional, for Colab or local)
+notebook
+
+# Optional: progress bars and better logging
+tqdm
